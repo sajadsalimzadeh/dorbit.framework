@@ -1,6 +1,5 @@
 using System;
 using System.Security.Cryptography;
-using System.Text;
 
 namespace Dorbit.Framework.Utils.Cryptography;
 

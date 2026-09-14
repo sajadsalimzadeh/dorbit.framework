@@ -1,5 +1,4 @@
 ﻿using System.Net;
-using System.Net.Http;
 using Dorbit.Framework.Configs;
 using Dorbit.Framework.Utils.Http;
 using Serilog;

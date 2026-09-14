@@ -1,14 +1,8 @@
-using System;
-using System.Linq;
-using System.Reflection;
 using System.Threading.Tasks;
 using Dorbit.Framework.Attributes;
-using Dorbit.Framework.Controllers;
 using Dorbit.Framework.Extensions;
-using Dorbit.Framework.Filters;
 using Dorbit.Framework.Services.Abstractions;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc.Controllers;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Dorbit.Framework.Middlewares;

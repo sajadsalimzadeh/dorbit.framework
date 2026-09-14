@@ -1,7 +1,6 @@
 using System;
 using System.IO;
 using System.Security.Cryptography;
-using System.Threading.Tasks;
 using Dorbit.Framework.Extensions;
 
 namespace Dorbit.Framework.Utils.Cryptography;

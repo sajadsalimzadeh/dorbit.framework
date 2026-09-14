@@ -1,5 +1,4 @@
 using System;
-using System.Threading.Tasks;
 using Dorbit.Framework.Configs;
 using Dorbit.Framework.Utils.Http;
 
